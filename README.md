@@ -1,4 +1,4 @@
-### Hi there.I'm Sourav Saha.Welcome to my profile.👋
+### Hi there.I'm Sourav Saha.I'm a student of Computer Science and Engineering.Welcome to my profile.👋
 
 
 
