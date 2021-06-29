@@ -8,6 +8,10 @@
 - 👯 I’m looking to collaborate on Machine Learning Projects.
 - 🤔 I can help with C++,Java,Python,HTML,CSS,Javascript
 - 📫 How to reach me: souravsaha0152@gmail.com
+
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=bracealround)
 <!--
 
 
