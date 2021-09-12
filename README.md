@@ -8,8 +8,8 @@
 - 👯 I’m looking to collaborate on Machine Learning Projects.
 - 🤔 I can help with C++,Java,Python,HTML,CSS,Javascript
 - 📫 How to reach me: souravsaha0152@gmail.com
-
-                                        ![visitors](https://visitor-badge.glitch.me/badge?page_id=bracealround.visitor-badge&left_color=green&right_color=red)
+-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=bracealround.visitor-badge&left_color=green&right_color=red)
 
 
 
