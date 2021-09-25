@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working on NLP,Image Processing
-- 🌱 I’m currently learning Deep Learning
+- 🔭 I’m currently working on NLP,Image Processing,COmputer Vision
+- 🌱 I’m currently learning Deep Learning,Data Science,Reinforment Learning
 - 👯 I’m looking to collaborate on Machine Learning Projects.
 - 🤔 I can help with C++,Java,Python,HTML,CSS,Javascript
 - 📫 How to reach me: souravsaha0152@gmail.com
