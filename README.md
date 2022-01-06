@@ -31,7 +31,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bracealround&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bracealround&count_private=true&show_icons=true&layout=compact&theme=radical" />
 </a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bracealround&theme=radical" alt="bracealround" /></p>
