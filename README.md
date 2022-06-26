@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bracealround" alt="bracealround" /></a> </p>
 
-- 🔭 I’m currently working on **NLP,Image Processing,Computer Vision**
+- 🔭 I’m currently working on **NLP,Medical Data/Image Processing,Computer Vision**
 
-- 🌱 I’m currently learning **Deep Learning,Data Science,Reinforment Learning**
+- 🌱 I’m currently learning **Deep Learning, Generative Adverserial Network, Data Science, Semi-supervised Learning With Humans In The Loop**
 
-- 👯 I’m looking to collaborate on **Machine Learning,Deep Learning,Computer Vision,Reinforcement Learning,Bioinformatics projects and papers.**
+- 👯 I’m looking to collaborate on **Machine Learning,Deep Learning, Medical Machine Learning, Computer Vision,Reinforcement Learning,Bioinformatics projects and papers.**
 
-- 🤝 I’m looking for help with **C++,Java,Python,HTML,CSS,Javascript**
+- 🤝 I’m looking for help with **Machine Learning, Deep Learning, Medical Image Processing, NLP, Python, GAN, Neural Network Models**
 
-- 📫 How to reach me **souravsaha0152@gmail.com**
+- 📫 How to reach me **souravsaha0152@gmail.com, sourav95@student.sust.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
