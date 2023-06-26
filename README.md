@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bracealround" alt="bracealround" /></a> </p>
 
-- 🔭 I’m currently working on different cross-domain works between **NLP, Bioinformatics, Medical Data/Image Processing, and Computer Vision**
+- 🔭 I’m currently working on different cross-domain works between **NLP, Medical Data/Image Processing, and Computer Vision**
 
 - 🌱 I’m currently learning **Deep Learning, Generative Adversarial Network, Data Science, and Semi-supervised Learning With Humans In The Loop**
 
