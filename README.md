@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourav Saha.Welcome to my profile.</h1>
-<h3 align="center">I'm an undergraduate student of Computer Science and Engineering.</h3>
+<h3 align="center">I'm a software engineer with a particularly keen interest in working with machine learning and data science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bracealround&label=Profile%20views&color=0e75b6&style=flat" alt="bracealround" /> </p>
 
