@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sourav Saha.Welcome to my profile.</h1>
-<h3 align="center">I'm a software engineer with a particularly keen interest in working with machine learning and data science.</h3>
+<h3 align="center">I'm a Ph.D. student at University of Central Florida with keen interest in Bioinformatics, NLP, LLM's & Genome Language Models.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bracealround&label=Profile%20views&color=0e75b6&style=flat" alt="bracealround" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bracealround" alt="bracealround" /></a> </p>
 
-- 📫 How to reach me **souravsaha0152@gmail.com, sourav95@student.sust.edu**
+- 📫 How to reach me **souravsaha0152@gmail.com, sourav95@student.sust.edu, saha.sourav@ucf.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
